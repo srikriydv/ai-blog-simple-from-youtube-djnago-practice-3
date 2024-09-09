@@ -28,8 +28,8 @@ Steps
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/ai-blog.git
-   cd ai-blog
+   git clone https://github.com/srikriydv/ai-blog-simple-from-youtube-djnago-practice-3.git
+   cd ai-blog-simple-from-youtube-djnago-practice-3
    ```
 
 2. **Set up virtual environment (optional but recommended)**:
@@ -85,6 +85,30 @@ Steps
 
    Open a web browser and go to `http://localhost:8000` to view the AI Blog. Use the admin interface at `http://localhost:8000/admin` to manage articles and users.
 
-## Contributing
+## Screenshots
 
-Contributions are welcome! If you'd like to contribute to AI Blog, fork the repository, create a new branch, and submit a pull request.
+Below are some screenshots of the Photo Simple App:
+
+
+### Home Page
+![home](https://github.com/user-attachments/assets/5151474f-5939-4256-b3d0-ae21f978fc80)
+
+### Login Page
+![login](https://github.com/user-attachments/assets/ac6496d2-fbdb-483a-833a-a07573dfc8b8)
+
+### Register Page
+![register](https://github.com/user-attachments/assets/08de59bd-ae89-4dfd-9b1b-fff1b20090e4)
+
+### Saved Blog Page
+![saved](https://github.com/user-attachments/assets/6e5ec684-743f-4cd7-a2df-790bc6fafa69)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any inquiries, please contact:
+- **Email**: srikri5462ydv@gmail.com
+- **GitHub**: [srikriydv](https://github.com/srikriydv)
+
